@@ -1,0 +1,14 @@
+[
+    {
+    "titulo":"Clase en playground",
+    "estado":"terminada"    
+    },
+    {
+    "titulo":" Ejercitacion",
+    "estado":"en progreso"    
+    },
+    {
+    "titulo":"sprint",
+    "estado":"pendiente"    
+    }
+]
